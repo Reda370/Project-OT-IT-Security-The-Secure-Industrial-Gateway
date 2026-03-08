@@ -1,0 +1,30 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs / captures
+logs/
+*.pcap
+*.pcapng
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# Virtual environments
+.vscode/
+.idea/
+
+# Temp
+*~
+*.swp
+*.tmp
+
+# Keys / secrets
+*.key
+*.pem
+
+# Misc
+*.bak
+*.orig
